@@ -1,2 +1,2 @@
-# LGMVIP-Web-Task-4
+# Calculator Web Application
 Repository for Calculator
